@@ -1,0 +1,149 @@
+#padre {
+    border: 1px solid #fff;
+    width: 75%;
+    margin: auto;
+    background-image: url(https://i.pinimg.com/736x/b7/6a/28/b76a28e93ab718b476178c3ca70f7702.jpg);
+}
+body{
+   /* color: #fff;*/
+}
+
+#sesion a{
+    color: #fff;
+}
+#cabecera {
+    margin-left: 15%;
+    margin-right: 20%;
+}
+#cabecera img{
+    border-radius: 50px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: none;
+    text-decoration: none;
+    position: absolute;
+    top: 50px;
+    margin-right: 50px;
+}
+ul li{
+    margin: 20px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+#color p1 {
+    border: 2px solid black;
+    border-radius: 300px;
+    margin-left: 160px;
+    justify-content: center;
+    height: 100px;
+    width: 50px;
+    color: #000;
+    background-color: rgba(0, 255, 13, 0.555);
+}
+#color h3{
+    margin-left: 100px;
+}
+#color1 div {
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 100px;
+    width: 130px;
+    margin-left: 150px;
+    background-color: rgba(0, 255, 179, 0.521);
+}
+
+#parrafo1 img {
+    margin-top: 20px;
+}
+#color1 h3{
+    margin-left: 100px;
+}
+
+#caja1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+}
+
+#color {
+    background-color: rgb(255, 0, 0);
+    padding-top: 75px;
+    font-style: italic;
+    font-family: "Jaro", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: 400; estilo de fuente: normal;
+}
+
+#caja2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+
+#color1 {
+    background-color: darkorange;
+    width: 450px;
+    padding-top: 75px;
+    font-style: italic;
+    font-family: "Jaro", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: 400; estilo de fuente: normal;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+}
+
+#menu p {
+    margin: 35px;
+}
+
+#pie,img {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 18%;
+}
+
+#pie div {
+    margin-left: 17%;
+}
+
+hr {
+    width: 70%;
+}
+
+#pie i {
+    margin-left: 5%;
+}
+#registro{
+    border: 1px solid;
+    height: 50px;
+    border-radius: 80px;
+    background-color: #000;
+    margin: 50px;
+    margin-top: 1px;
+    width: 120px;
+    text-align: center;
+    align-items: center;
+  
+}
+#sesion{
+    border: 1px solid;
+    height: 50px;
+    border-radius: 50px;
+}
+
+#registro a{
+    color: #fff;
+}
+#pie,i{
+    color: #fff;
+}

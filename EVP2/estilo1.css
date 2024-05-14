@@ -1,0 +1,197 @@
+#padre{
+    border: 1px solid;
+    width: 70%;
+    margin: auto;
+    background-image: url(https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+body{
+    color: #fff;
+}
+#cabecera {       
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+#cabecera img{
+    border-radius: 50%;
+}  
+
+
+ul{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: none;
+    text-decoration: none;
+    position: absolute;
+    top: 50px;
+    margin-right: 50px;
+}
+ul li{
+    margin: 20px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+#parrafo{
+    margin-left: 250px;
+}
+
+#series{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    
+}
+#fantasia{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+}
+#terror{
+    position: absolute;
+    top: 450px;
+    left: 800px;
+}
+#novela{
+    position: absolute;
+    top: 600px;
+    left: 1100px;
+}
+#pelicula{
+    position: absolute;
+    top: 290px;
+    right: 600px;
+    
+}
+#aventura{
+    position: absolute;
+    top: 450px;
+    right: 600px;
+
+}
+#parrafos,h3{
+    position: absolute;
+    top: 95px;
+    left: 400px;
+}
+#parrafos div{
+    position: absolute;
+    top: 150px;
+    left: 420px;
+}
+#menu{
+    margin-left: 250px;
+    border: 1px solid blue;
+    width: 150px;
+    text-align: center;
+    font-family: "Jaro", sans-serif; tamaño-óptico-de-fuente: automático; peso de fuente: 400; estilo de fuente: normal;
+}
+#menu p{
+    justify-content: center;
+}
+i{
+    margin: 10px;
+}
+
+#contenedor1{
+    display: flex;
+}
+#pie,
+img {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 18%;
+}
+
+#pie div {
+    margin-left: 17%;
+}
+#menu2 {
+    display: flex;
+    justify-content: center;
+}
+#menu2 p{
+    /*margin: 51px;*/
+    margin: 20px;
+}
+#series img{
+    border-radius: 50%;
+    width: 160px;
+    height: 140px;
+}
+#terror img{
+    border-radius: 100%;
+    width: 160px;
+    height: 140px;
+}
+#fantasia img{
+    border-radius: 50%;
+    width: 160px;
+    height: 130px;
+}
+#pelicula img{
+    border-radius: 50%;
+    width: 160px;
+    height: 120px;
+}
+#aventura img{
+    border-radius: 50%;
+    width: 160px;
+    height: 120px;
+}
+#novela img{
+    border-radius: 50%;
+    width:160px ;
+    height: 120px;
+}
+#series,p{
+    display: flex;
+    align-items: center;
+}
+#terror,p{
+    display: flex;
+}
+#fantasia,p{
+    display: flex;
+}
+#pelicula,p{
+    display: flex;
+}
+#aventura,p{
+    display: flex;
+}
+#novela,p{
+    display: flex;
+}
+.ul,a{
+    color: #fff;
+}
+#sesion a{
+    border: 1px solid #fff;
+    border-radius: 30px;
+    padding-bottom: 15px;
+}
+
+a{
+    padding-top: 10px;
+}
+
+#registro a{
+    border: 1px solid #fff;
+    border-radius: 30px;
+    padding-bottom: 15px;
+}
+#parrafo p{
+    background-color: rgba(220, 220, 220, 0.363);
+    padding-top: 10px;
+}
+hr{
+    width: 1100px;
+    margin-right: 5px;
+}
